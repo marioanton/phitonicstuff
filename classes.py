@@ -42,6 +42,11 @@ Inheritance.
   
  Stratic methods
 - doesn't need data from the calass
+What is a static method? Static methods in Python are extremely similar to python class level methods,
+the difference being that a static method is bound to a class rather than the objects for that class.
+This means that a static method can be called without an object for that class.
+
+
 https://www.freecodecamp.org/news/python-property-decorator/
   
   
