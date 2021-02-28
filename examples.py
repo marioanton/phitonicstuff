@@ -1,6 +1,9 @@
 ## Pythonic Training
 ## Data Types
 
+# to read 
+# https://betterprogramming.pub/lambda-map-and-filter-in-python-4935f248593?gi=a149f1aed5b
+
 List    [1,2,2,3,4,5,2]
 Tuple  (2, ”dsad2”, ”2das”) |||   “borec”,
 Dict   {“name”: “jeremey”, “age” : “20”}
